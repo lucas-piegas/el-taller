@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1787959933|2186184';
+const CACHE_VERSION = '1788011953|2149092';
 /** @type {string} */
 const CACHE_PREFIX = 'El Taller-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
