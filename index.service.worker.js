@@ -4,9 +4,9 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1788057798|2695169';
+const CACHE_VERSION = '1788098175|2165310';
 /** @type {string} */
-const CACHE_PREFIX = 'El Taller-sw-cache-';
+const CACHE_PREFIX = 'Patina-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
 /** @type {string} */
 const OFFLINE_URL = 'index.offline.html';
